@@ -40,7 +40,6 @@ I'm a passionate **Mechatronics** student at the **University of Waterloo**, wit
 <p align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="Git" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" alt="GitHub" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original.svg" alt="AWS" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" alt="Docker" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg" alt="VS Code" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" alt="Jupyter Notebook" width="40" height="40"/>
@@ -54,7 +53,7 @@ I'm a passionate **Mechatronics** student at the **University of Waterloo**, wit
   <img src="https://img.shields.io/badge/YOLOv8-4CAF50?style=for-the-badge&logo=yolo&logoColor=white" alt="YOLOv8" width="80" height="30"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" alt="Pandas" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" alt="NumPy" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/scikit-learn/scikit-learn-original.svg" alt="Scikit-learn" width="40" height="40"/>
+<img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="Scikit-learn" width="40" height="40"/>
   <img src="https://img.shields.io/badge/MediaPipe-00897B?style=for-the-badge&logo=mediapipe&logoColor=white" alt="MediaPipe" width="80" height="30"/>
   <img src="https://img.shields.io/badge/PyFirmata-336699?style=for-the-badge&logo=python&logoColor=white" alt="PyFirmata" width="80" height="30"/>
 </p>
