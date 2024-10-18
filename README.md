@@ -6,9 +6,9 @@ I'm a passionate **Mechatronics** student at the **University of Waterloo**, wit
 - 🌱 I’m currently learning: AI applications for robotics, Linux real-time systems, and advanced data structures.
 - 💼 I'm seeking **Winter/Spring 2025 internships** in **Embedded Software Engineering**, **AI**, or **Robotics**.
 - 💬 Ask me about: **Mechatronics**, **AI in robotics**, **Arduino**, **C++**, **React**, and **Python**.
-- 👨‍💻 Check out my portfolio: [My Personal Website](https://website-eight-pi-16.vercel.app/)
-- 🎯 Solve problems with me: [[My LeetCode Profile](https://leetcode.com/u/hassaanfarooqi2000/)
-- 🔗 Connect with me: [LinkedIn](www.linkedin.com/in/muhfarooqi)
+- 👨‍💻 Check out my portfolio: <a href="https://website-eight-pi-16.vercel.app/" target="_blank">My Personal Website</a>
+- 🎯 Solve problems with me: <a href="https://leetcode.com/u/hassaanfarooqi2000/" target="_blank">My LeetCode Profile</a>
+- 🔗 Connect with me: <a href="https://www.linkedin.com/in/muhfarooqi" target="_blank">LinkedIn</a>
 
 ---
 
