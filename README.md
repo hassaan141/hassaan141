@@ -61,8 +61,8 @@ I'm a passionate **Mechatronics** student at the **University of Waterloo**, wit
 ---
 
 ### 📈 GitHub Stats
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=hassaan141&show_icons=true&theme=dark)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hassaan141&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=hassaan141&show_icons=true&theme=dark&cache_seconds=1800)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hassaan141&layout=compact&theme=dark&cache_seconds=1800)](https://github.com/anuraghazra/github-readme-stats)
 
 ---
 
